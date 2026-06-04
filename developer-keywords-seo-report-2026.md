@@ -727,7 +727,7 @@ const idealKeyword = {
 Found a keyword we missed? Open an issue or PR!
 
 ```bash
-git clone https://github.com/yourusername/developer-keywords-2026.git
+git clone https://github.com/developer-mahabbat/developer-keywords-2026.git
 cd developer-keywords-2026
 code CONTRIBUTING.md
 ```
@@ -776,7 +776,7 @@ If this report helped you find profitable keywords, **please star the repo** to 
 
 <div align="center">
 
-### 🚀 Made with ❤️ for the Developer Community
+### 🚀 Made with ❤️ for the Developer-MK Community
 
 **[Report Issues](#)** • **[Suggest Keywords](#)** • **[Star This Repo](#)**
 
