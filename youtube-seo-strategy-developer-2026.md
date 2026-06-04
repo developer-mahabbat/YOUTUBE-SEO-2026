@@ -708,7 +708,7 @@ Monetization Timeline:
 Found a trending topic we missed? Open an issue or PR!
 
 ```bash
-git clone https://github.com/yourusername/youtube-seo-developer-2026.git
+git clone https://github.com/developer-mahabbat/youtube-seo-developer-2026.git
 cd youtube-seo-developer-2026
 code CONTRIBUTING.md
 ```
@@ -739,7 +739,7 @@ If this strategy helped you plan your YouTube content, **please star the repo** 
 
 <div align="center">
 
-### 🎬 Made with ❤️ for Small Developer YouTube Channels
+### 🎬 Made by ❤️ Developer-MK
 
 **[Report Issues](#)** • **[Suggest Topics](#)** • **[Star This Repo](#)**
 
